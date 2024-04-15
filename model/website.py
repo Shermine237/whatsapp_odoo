@@ -20,10 +20,10 @@
 #
 #############################################################################
 
-from odoo import api, fields, models
+# from odoo import api, fields, models
 
 
-class Website(models.Model):
-    _inherit = 'website'
+# class Website(models.Model):
+#     _inherit = 'website'
 
-    mobile_number = fields.Char(string='Mobile Number')
+#     mobile_number = fields.Char(string='Mobile Number')
