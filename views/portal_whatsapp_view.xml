@@ -1,13 +1,13 @@
-<!-- <?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <odoo>
-    <template id="ChatToCompany" name="Chat With Company"
+    <!-- <template id="ChatToCompany" name="Chat With Company"
               inherit_id="website.footer_custom">
         <xpath expr="//div[hasclass('s_social_media')]" position="inside">
             <div class="cy_whatsapp_web">
                 <i class="fa fa-whatsapp cy-icon"/>
             </div> -->
             <!-- Modal -->
-<!--             <div class="modal" id="ModalWhatsapp" tabindex="-1" role="dialog"
+            <!-- <div class="modal" id="ModalWhatsapp" tabindex="-1" role="dialog"
                  aria-labelledby="exampleModalLabel" style="display: none;"
                  aria-hidden="true">
                 <div class="modal-dialog" role="document">
@@ -74,5 +74,5 @@
             </div>
         </xpath>
 
-    </template>
-</odoo> -->
+    </template> -->
+</odoo>
