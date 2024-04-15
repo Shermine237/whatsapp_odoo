@@ -12,7 +12,7 @@
     'data': [
         'security/ir.model.access.csv',
         'views/selection_messages_views.xml',
-        'views/portal_whatsapp_view.xml',
+        # 'views/portal_whatsapp_view.xml',
         'views/sale_order_inherited.xml',
         'views/account_move_inherited.xml',
         'views/website_inherited.xml',
