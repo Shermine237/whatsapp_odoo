@@ -1,4 +1,4 @@
-odoo.define('whatsapp_mail_messaging.whatsapp_icon_website.js', function (require) {
+odoo.define('whatsapp_odoo.whatsapp_icon_website.js', function (require) {
     "use strict";
 
     var publicWidget = require('web.public.widget');

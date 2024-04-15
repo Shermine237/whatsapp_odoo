@@ -6,7 +6,7 @@ import Widget from 'web.Widget';
 const { Component } = owl;
 
 var ActionMenu = Widget.extend({
-    template: 'whatsapp_mail_messaging.whatsapp_icon',
+    template: 'whatsapp_odoo.whatsapp_icon',
     events: {
         'click .whatsapp_icon': 'onclick_whatsapp_icon',
     },

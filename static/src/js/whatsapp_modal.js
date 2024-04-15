@@ -1,4 +1,4 @@
-odoo.define('whatsapp_mail_messaging.whatsapp_modal.js', function (require) {
+odoo.define('whatsapp_odoo.whatsapp_modal.js', function (require) {
     "use strict";
 
     var publicWidget = require('web.public.widget');
