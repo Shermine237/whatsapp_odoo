@@ -8,7 +8,7 @@
     website portal view and share the access url of documents using share option available in each records through 
     Whatsapp web..""",
     'author': '...',
-    'depends': ['sale', 'account', 'website','sale_management'],
+    'depends': ['sale', 'account','sale_management'],
     'data': [
         'security/ir.model.access.csv',
         'views/selection_messages_views.xml',
