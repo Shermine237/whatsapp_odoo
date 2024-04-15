@@ -46,10 +46,10 @@
         <field name="view_id" ref="selection_messages_view_tree"/>
     </record>
 
-    <menuitem name="Whatsapp Messages"
+    <!-- <menuitem name="Whatsapp Messages"
               id="menu_website_selection_messages"
               action="selection_messages_action"
               parent="website.menu_website_global_configuration"
               sequence="50"
-              />
+              /> -->
 </odoo>
